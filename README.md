@@ -3,7 +3,7 @@
 <hr>
 
 
-- 🌱 I’m currently learning  **.Net 5, C#**
+- 🌱 I’m currently learning  **.Net , C#**
 - 📫 How to reach me : **kandazasli1@gmail.com** 
 
 
